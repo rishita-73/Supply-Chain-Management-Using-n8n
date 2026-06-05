@@ -222,6 +222,9 @@ target_orders                    fact_order_line
 
 ---
 
+## Quadratic Project Link 
+https://app.quadratichq.com/file/e400ff51-5796-4da3-9db2-81fc627111f6
+
 ## Key Learnings
 
 * Workflow Automation using n8n
@@ -237,7 +240,6 @@ target_orders                    fact_order_line
 
 ## Future Improvements
 
-* Interactive Power BI Dashboard
 * Automated KPI Alerts
 * Predictive OTIF Forecasting
 * AI-powered Supply Chain Assistant
